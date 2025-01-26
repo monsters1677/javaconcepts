@@ -19,7 +19,8 @@ public class StringMethods {
         System.out.println(" equals Ignore case :"+s1.equalsIgnoreCase(s2));
         System.out.println("characters' indexes :"+s1.indexOf('e')+" "+s2.indexOf('a'));
         System.out.println("to know empty or not :"+s1.isEmpty()+" "+s2.isEmpty());
-        System.out.println();
+        System.out.println("comparing s1, s2 with = = operator is " + (s1 == s2));
+        System.out.println("comparing s1, s2 with equals method is : " + s1.equals(s2));
         ///// Object Class methods:
         // toString()
         //equals()
