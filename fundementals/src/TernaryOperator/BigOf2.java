@@ -1,6 +1,6 @@
 package TernaryOperator;
 
-import javafx.scene.transform.Scale;
+//import //javafx.scene.transform.Scale;
 
 import java.util.Scanner;
 
