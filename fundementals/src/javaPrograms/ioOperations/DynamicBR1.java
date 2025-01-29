@@ -12,8 +12,6 @@ public class DynamicBR1 {
             String data = br.readLine();
             System.out.print("Enter the same data again      : ");
             int val = br.read();
-
-
             System.out.println("readLine()  : " + data);
             System.out.println("read()      : " + val+"["+(char)val+"]");
         } catch (Exception e) {
