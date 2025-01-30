@@ -1,4 +1,4 @@
-package fundementals.src.javaPrograms.LOOPS;
+package fundementals.src.javaPrograms.Statements.LOOPS;
 
 public class ForLoop {
     public static void main(String[] args){
